@@ -245,4 +245,4 @@ This repository serves as the official landing page for Stellarium. The software
 This README is optimized for SEO, conversion, and compliance, ensuring it adheres to all critical rules while providing a unique and engaging presentation for Stellarium software.
 
 ---
-**Last updated:** 2026-09-22 15:19:34 UTC
+**Last updated:** 2026-09-22 19:27:47 UTC
